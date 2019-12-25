@@ -1,0 +1,5 @@
+n = 1898 people with phone numbers beginning in +1603534 were polled.
+There were 126 respondants.
+Of those responses, 34 contained "yes". 
+Of those responses, 53 contained "no". 
+Of those responses, 39 contained neither. 
